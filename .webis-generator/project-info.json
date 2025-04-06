@@ -1,8 +1,36 @@
 {
   "projectName": "משרד-עורכי-דין-גמא-6224",
   "businessName": "משרד עורכי דין גמא",
-  "created": "2025-04-06T16:17:04.476Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "description": "אנחנו משרד עורכי דין מוביל בתחום האופנה עם ניסיון של שנים רבות. אנחנו מתמחים במתן שירות מקצועי ואיכותי ללקוחותינו.",
+  "created": "2025-04-06T16:17:26.567Z",
+  "generatedWith": "webis-generator",
+  "repoName": "webis-site-mshrd-avrky-dyn-gma-1743955727776",
+  "formData": {
+    "businessName": "משרד עורכי דין גמא",
+    "businessType": "משרד עורכי דין",
+    "industry": "אופנה",
+    "businessSize": "small",
+    "description": "אנחנו משרד עורכי דין מוביל בתחום האופנה עם ניסיון של שנים רבות. אנחנו מתמחים במתן שירות מקצועי ואיכותי ללקוחותינו.",
+    "language": "he",
+    "primaryColor": "#9B786F",
+    "secondaryColor": "#4ECDC4",
+    "typographyStyle": "classic",
+    "animationPreference": "moderate",
+    "headline": "משרד עורכי דין מוביל בישראל",
+    "descriptionText": "חווית לקוח מושלמת בכל ביקור",
+    "ctaText": "קבע תור עכשיו",
+    "formFields": "שם, טלפון, אימייל, הודעה",
+    "includeTestimonials": false,
+    "includeFAQ": true,
+    "hasProducts": true,
+    "hasServices": true,
+    "hasPortfolio": false,
+    "needsBookingSystem": false,
+    "metaDescription": "משרד עורכי דין מוביל המספק שירות מקצועי ואיכותי. הזמינו תור עוד היום!",
+    "metaKeywords": "משרד עורכי דין, שירות, איכות, מקצועיות, ישראל",
+    "designStyles": [
+      "glassmorphism",
+      "neumorphic"
+    ]
+  }
 }
