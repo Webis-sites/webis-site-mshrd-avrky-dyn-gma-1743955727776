@@ -12,6 +12,8 @@
   --font-family-serif: 'Playfair Display', 'David Libre', serif;
   --font-family-sans: 'Heebo', 'Assistant', sans-serif;
   --transition-speed: 0.3s;
+
+  --animation-duration: 0.3s;
 }
 
 html {
